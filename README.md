@@ -66,6 +66,9 @@ $ vercel
 Resultado:
 ![Screenshot](img/06.png)
 
+Repositorio: https://github.com/enaguero/front-deploy-example
+Link a página: https://front-deploy-example-m5b5xagmg.vercel.app/
+
 **¿Por qué fue tan fácil?** El boiler plate viene con un archivo de configuración llamado [`now.json`](https://github.com/4GeeksAcademy/react-hello-webapp/blob/master/now.json), este archivo es leído por vercel para realizar el proceso copiar los archivos en `public` al servidor de ellos.
 
 Resultado:
