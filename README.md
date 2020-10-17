@@ -1,5 +1,5 @@
 # front_end_deployment_instructions
-Instrucciones para hacer deploy de una aplicación hecha con [Reack boiler plate de 4GeeksAcademy](https://github.com/4GeeksAcademy/react-hello-webapp).
+Instrucciones para hacer deploy de una aplicación hecha con [React boiler plate de 4GeeksAcademy](https://github.com/4GeeksAcademy/react-hello-webapp).
 
 ## Crear una cuenta en http://zeit.co/
 
@@ -9,7 +9,7 @@ Pasaron de llamarse [Zeit](http://zeit.co/) a [Vercel](https://vercel.com/). Deb
 
 ## Prepara tu boiler plate : Instalación de Vercle CLI
 
-Debido a la actualización la interfaz de comando que proporcionaba Zeit a cambiado de now a vercel.
+Zeit a cambiado de now a vercel, por eso debemos realizar esta actualización.
 
 ![Screenshot](img/02.png)
 
@@ -26,7 +26,7 @@ Básicamente, indicas desintalar now e instala vercel.
 
 ![Screenshot](img/03.png)
 
-### Asocia tu cuenta Vercel en la terminal
+### Asocia tu cuenta Vercel en la terminal
 
 Debemos indicarle al proyecto que se publique el código en nuestro workspace de Vercel (alias proyecto). Desde la terminal ejecuta simplemente vercel:
 
@@ -43,7 +43,7 @@ Recibirás un email indicando que necesitan verificar tu correo electrónico, de
 
 ## Deploy
 
-### Genera el código
+### Genera el código
 
 Para generar el código de producción se utiliza el siguiente comando desde tu terminal de GitPod:
 
